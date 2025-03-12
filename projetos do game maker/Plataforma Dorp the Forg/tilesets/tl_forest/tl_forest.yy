@@ -1,0 +1,41 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tl_forest",
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[13,15,16,10,18,12,0,9,17,0,14,11,20,19,21,0,],},
+  ],
+  "macroPageTiles":{
+    "SerialiseHeight":8,
+    "SerialiseWidth":6,
+    "TileCompressedData":[-8,0,3,6,7,8,-9,0,2,1,2,-10,0,2,3,4,-13,0,1,5,],
+    "TileDataFormat":1,
+  },
+  "name":"tl_forest",
+  "out_columns":5,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_tileset_florest",
+    "path":"sprites/spr_tileset_florest/spr_tileset_florest.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":64,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":64,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":22,
+}
